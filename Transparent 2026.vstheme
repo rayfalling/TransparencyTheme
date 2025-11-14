@@ -1,6 +1,6 @@
 ﻿<Themes>
     <Theme Name="Fully Transparent 2026" GUID="{78B44C43-C31A-4826-BBE4-05DDFCE45B40}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
-         <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
+        <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
             <Color Name="Body">
                 <Background Type="CT_RAW" Source="FF252526" />
                 <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -7925,209 +7925,209 @@
             </Color>
         </Category>
         <Category Name="StartPage" GUID="{65d78f35-869e-4bf3-8e52-991fee554a16}">
-            <Color Name="StartPageBackgroundGradientBegin">
-                <Background Type="CT_RAW" Source="FF3F3F46" />
-            </Color>
-            <Color Name="StartPageBackgroundGradientEnd">
-                <Background Type="CT_RAW" Source="FF333334" />
-            </Color>
-            <Color Name="StartPageHeadingText">
-                <Foreground Type="CT_RAW" Source="FF0E6198" />
-            </Color>
-            <Color Name="StartPageListItem">
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageListItemPressed">
-                <Background Type="CT_RAW" Source="FF007ACC" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-            </Color>
-            <Color Name="StartPageSupportText">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="StartPageSupportTextHover">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="StartPageSupportTextPressed">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="StartPageListItemGlyphHover">
-                <Background Type="CT_RAW" Source="FF0097FB" />
-            </Color>
-            <Color Name="StartPageListItemGlyphPressed">
-                <Background Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageNewsBackground">
-                <Background Type="CT_RAW" Source="FF2D2D30" />
-            </Color>
-            <Color Name="StartPageTimeStamp">
-                <Foreground Type="CT_RAW" Source="FF616161" />
-            </Color>
-            <Color Name="StartPageListItemHover">
-                <Background Type="CT_RAW" Source="FF3E3E40" />
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageListItemGlyph">
-                <Background Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="MRUSecondaryForeground">
-                <Background Type="CT_RAW" Source="FF999999" />
-            </Color>
-            <Color Name="VideoRSSItem">
-                <Background Type="CT_RAW" Source="FF3E3E42" />
-            </Color>
-            <Color Name="VideoRSSItemHover">
-                <Background Type="CT_RAW" Source="FF3E3E40" />
-            </Color>
-            <Color Name="VideoRSSItemPressed">
-                <Background Type="CT_RAW" Source="FF3399FF" />
-            </Color>
-            <Color Name="VideoRSSItemTitle">
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="VideoRSSItemTitleMouseOver">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="VideoRSSItemTitlePressed">
-                <Foreground Type="CT_RAW" Source="FF55AAFF" />
-            </Color>
-            <Color Name="VideoRSSItemDuration">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="VideoRSSItemDurationMouseOver">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="VideoRSSItemDurationPressed">
-                <Foreground Type="CT_RAW" Source="FF6A6A6A" />
-            </Color>
-            <Color Name="DisabledProjectCommand">
-                <Foreground Type="CT_RAW" Source="FF656565" />
-            </Color>
-            <Color Name="DiscoverTitleText">
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="UserConsent">
-                <Background Type="CT_RAW" Source="FFFEFCC8" />
-            </Color>
-            <Color Name="ItemHeadingText">
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageCheckBoxText">
-                <Foreground Type="CT_RAW" Source="FF999999" />
-            </Color>
-            <Color Name="StartPageCheckBoxMouseOverText">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxPressedText">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxBackground">
-                <Background Type="CT_RAW" Source="FF464646" />
-            </Color>
-            <Color Name="StartPageCheckBoxMouseOverBackground">
-                <Background Type="CT_RAW" Source="FF3E3E40" />
-            </Color>
-            <Color Name="StartPageCheckBoxPressedBackground">
-                <Background Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxBorder">
-                <Foreground Type="CT_RAW" Source="00000000" />
-            </Color>
-            <Color Name="StartPageCheckBoxMouseOverBorder">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxPressedBorder">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxCheckMark">
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageCheckBoxMouseOverCheckMark">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageCheckBoxPressedCheckMark">
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-            </Color>
-            <Color Name="StartPagePartitionLine">
-                <Background Type="CT_RAW" Source="FF333337" />
-            </Color>
-            <Color Name="StartPageButton">
-                <Background Type="CT_RAW" Source="FF3F3F46" />
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageButtonBorder">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageButtonMouseOver">
-                <Background Type="CT_RAW" Source="FF656565" />
-                <Foreground Type="CT_RAW" Source="FFF1F1F1" />
-            </Color>
-            <Color Name="StartPageButtonMouseOverBorder">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageButtonMouseDown">
-                <Background Type="CT_RAW" Source="FF007ACC" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-            </Color>
-            <Color Name="StartPageButtonMouseDownBorder">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
-            </Color>
-            <Color Name="StartPageDefaultBannerBackground">
-                <Background Type="CT_RAW" Source="FF252526" />
-            </Color>
-            <Color Name="StartPageLeftPanelBackground">
-                <Background Type="CT_RAW" Source="FF2D2D30" />
-            </Color>
-            <Color Name="StartPageNewText">
-                <Background Type="CT_RAW" Source="FFFF8C00" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-            </Color>
-            <Color Name="StartPageNotificationDotBorder">
-                <Foreground Type="CT_RAW" Source="FFA1A3AD" />
-            </Color>
-            <Color Name="StartPageNotificationDot">
-                <Foreground Type="CT_RAW" Source="FFFFBA00" />
+            <Color Name="AzureInvitationBannerTitle">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
             <Color Name="DefaultBannerLink">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
+                <Foreground Type="CT_RAW" Source="FF83BEEB" />
             </Color>
             <Color Name="DefaultBannerLinkHover">
-                <Foreground Type="CT_RAW" Source="FF55AAFF" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
             <Color Name="DefaultBannerLinkPressed">
-                <Foreground Type="CT_RAW" Source="FF007ACC" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
-            <Color Name="VisualStudioLogoText">
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+            <Color Name="DisabledProjectCommand">
+                <Foreground Type="CT_RAW" Source="FF5C5C5C" />
             </Color>
-            <Color Name="AzureInvitationBannerTitle">
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+            <Color Name="DiscoverTitleText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
-            <Color Name="StartPageTitleText">
-                <Foreground Type="CT_RAW" Source="FF7E6693" />
+            <Color Name="ItemHeadingText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
-            <Color Name="StartPageExpander">
-                <Background Type="CT_RAW" Source="FF4F4F53" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+            <Color Name="MRUSecondaryForeground">
+                <Background Type="CT_RAW" Source="FF868686" />
             </Color>
-            <Color Name="StartPageExpanderHover">
-                <Background Type="CT_RAW" Source="FF898A93" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+            <Color Name="StartPageBackgroundGradientBegin">
+                <Background Type="CT_RAW" Source="FF424242" />
             </Color>
-            <Color Name="StartPageExpanderPressed">
-                <Background Type="CT_RAW" Source="FFA1A3AD" />
-                <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-            </Color>
-            <Color Name="StartPageCloseButtonGlyph">
-                <Foreground Type="CT_RAW" Source="FFEFEBEF" />
-            </Color>
-            <Color Name="StartPageCloseButtonHoverGlyph">
-                <Foreground Type="CT_RAW" Source="FF9E9E9E" />
-            </Color>
-            <Color Name="StartPageCloseButtonDownGlyph">
-                <Foreground Type="CT_RAW" Source="FF9E9E9E" />
+            <Color Name="StartPageBackgroundGradientEnd">
+                <Background Type="CT_RAW" Source="FF333333" />
             </Color>
             <Color Name="StartPageBackgroundOpacity">
-                <Background Type="CT_RAW" Source="FF000000" />
+                <Background Type="CT_RAW" Source="33000000" />
+            </Color>
+            <Color Name="StartPageButton">
+                <Background Type="CT_RAW" Source="FF383838" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageButtonBorder">
+                <Foreground Type="CT_RAW" Source="FF3D3D3D" />
+            </Color>
+            <Color Name="StartPageButtonMouseDown">
+                <Background Type="CT_RAW" Source="FF3D3D3D" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageButtonMouseDownBorder">
+                <Foreground Type="CT_RAW" Source="FF707070" />
+            </Color>
+            <Color Name="StartPageButtonMouseOver">
+                <Background Type="CT_RAW" Source="FF666666" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageButtonMouseOverBorder">
+                <Foreground Type="CT_RAW" Source="FF707070" />
+            </Color>
+            <Color Name="StartPageCheckBoxBackground">
+                <Background Type="CT_RAW" Source="FF1F1F1F" />
+            </Color>
+            <Color Name="StartPageCheckBoxBorder">
+                <Foreground Type="CT_RAW" Source="FF3D3D3D" />
+            </Color>
+            <Color Name="StartPageCheckBoxCheckMark">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCheckBoxMouseOverBackground">
+                <Background Type="CT_RAW" Source="FF1A1A1A" />
+            </Color>
+            <Color Name="StartPageCheckBoxMouseOverBorder">
+                <Foreground Type="CT_RAW" Source="FF707070" />
+            </Color>
+            <Color Name="StartPageCheckBoxMouseOverCheckMark">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCheckBoxMouseOverText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCheckBoxPressedBackground">
+                <Background Type="CT_RAW" Source="FF1A1A1A" />
+            </Color>
+            <Color Name="StartPageCheckBoxPressedBorder">
+                <Foreground Type="CT_RAW" Source="FF999999" />
+            </Color>
+            <Color Name="StartPageCheckBoxPressedCheckMark">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCheckBoxPressedText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCheckBoxText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageCloseButtonDownGlyph">
+                <Foreground Type="CT_RAW" Source="FFD6D6D6" />
+            </Color>
+            <Color Name="StartPageCloseButtonGlyph">
+                <Foreground Type="CT_RAW" Source="FFD6D6D6" />
+            </Color>
+            <Color Name="StartPageCloseButtonHoverGlyph">
+                <Foreground Type="CT_RAW" Source="FFD6D6D6" />
+            </Color>
+            <Color Name="StartPageDefaultBannerBackground">
+                <Background Type="CT_RAW" Source="FF1F1F1F" />
+            </Color>
+            <Color Name="StartPageExpander">
+                <Background Type="CT_RAW" Source="FF4D4D4D" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageExpanderHover">
+                <Background Type="CT_RAW" Source="FF4D4D4D" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageExpanderPressed">
+                <Background Type="CT_RAW" Source="FF4D4D4D" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageHeadingText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageLeftPanelBackground">
+                <Background Type="CT_RAW" Source="FF1F1F1F" />
+            </Color>
+            <Color Name="StartPageListItem">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageListItemGlyph">
+                <Background Type="CT_RAW" Source="FFD6D6D6" />
+            </Color>
+            <Color Name="StartPageListItemGlyphHover">
+                <Background Type="CT_RAW" Source="FF1A1A1A" />
+            </Color>
+            <Color Name="StartPageListItemGlyphPressed">
+                <Background Type="CT_RAW" Source="FFD6D6D6" />
+            </Color>
+            <Color Name="StartPageListItemHover">
+                <Background Type="CT_RAW" Source="FF333333" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageListItemPressed">
+                <Background Type="CT_RAW" Source="FF3D3D3D" />
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageNewsBackground">
+                <Background Type="CT_RAW" Source="FF2E2E2E" />
+            </Color>
+            <Color Name="StartPageNewText">
+                <Background Type="CT_RAW" Source="FFE0CFA2" />
+                <Foreground Type="CT_RAW" Source="FF1F1F1F" />
+            </Color>
+            <Color Name="StartPageNotificationDot">
+                <Foreground Type="CT_RAW" Source="FFE0CFA2" />
+            </Color>
+            <Color Name="StartPageNotificationDotBorder">
+                <Foreground Type="CT_RAW" Source="FF3D3D3D" />
+            </Color>
+            <Color Name="StartPagePartitionLine">
+                <Background Type="CT_RAW" Source="FF333333" />
+            </Color>
+            <Color Name="StartPageSupportText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageSupportTextHover">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageSupportTextPressed">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageTimeStamp">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="StartPageTitleText">
+                <Foreground Type="CT_RAW" Source="FF9183EE" />
+            </Color>
+            <Color Name="UserConsent">
+                <Background Type="CT_RAW" Source="FFE0CFA2" />
+            </Color>
+            <Color Name="VideoRSSItem">
+                <Background Type="CT_RAW" Source="FF2E2E2E" />
+            </Color>
+            <Color Name="VideoRSSItemDuration">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VideoRSSItemDurationMouseOver">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VideoRSSItemDurationPressed">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VideoRSSItemHover">
+                <Background Type="CT_RAW" Source="FF333333" />
+            </Color>
+            <Color Name="VideoRSSItemPressed">
+                <Background Type="CT_RAW" Source="FF403582" />
+            </Color>
+            <Color Name="VideoRSSItemTitle">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VideoRSSItemTitleMouseOver">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VideoRSSItemTitlePressed">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+            </Color>
+            <Color Name="VisualStudioLogoText">
+                <Foreground Type="CT_RAW" Source="FFFAFAFA" />
             </Color>
         </Category>
         <Category Name="Task Runner Explorer" GUID="{af57483a-a3e2-4330-a7cd-21f3dc681594}">
@@ -10448,26 +10448,245 @@
             </Color>
         </Category>
         <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
-            <Color Name="AccentFillDefault">
-                <Background Type="CT_RAW" Source="FF9184EE" />
-            </Color>
-            <Color Name="AccentFillSecondary">
-                <Background Type="CT_RAW" Source="80000000" />
-            </Color>
-            <Color Name="AccentFillTertiary">
-                <Background Type="CT_RAW" Source="CC9184EE" />
-            </Color>
-            <Color Name="SolidBackgroundFillTertiary">
-                <Background Type="CT_RAW" Source="E6282828" />
-            </Color>
-            <Color Name="SolidBackgroundFillQuaternary">
-                <Background Type="CT_RAW" Source="E62C2C2C" />
-            </Color>
-            <Color Name="SurfaceBackgroundFillDefault">
-                <Background Type="CT_RAW" Source="E62C2C2C" />
+            <Color Name="TextFillPrimary">
+                <Background Type="CT_RAW" Source="FFFFFFFF" />
             </Color>
             <Color Name="TextFillSecondary">
-                <Background Type="CT_RAW" Source="C8FFFFFF" />
+                <Background Type="CT_RAW" Source="C5FFFFFF" />
+            </Color>
+            <Color Name="TextFillTertiary">
+                <Background Type="CT_RAW" Source="87FFFFFF" />
+            </Color>
+            <Color Name="TextFillDisabled">
+                <Background Type="CT_RAW" Source="5DFFFFFF" />
+            </Color>
+            <Color Name="TextFillInverse">
+                <Background Type="CT_RAW" Source="E4000000" />
+            </Color>
+            <Color Name="AccentTextFillDisabled">
+                <Background Type="CT_RAW" Source="5DFFFFFF" />
+            </Color>
+            <Color Name="TextOnAccentFillSelectedText">
+                <Background Type="CT_RAW" Source="FFFFFFFF" />
+            </Color>
+            <Color Name="TextOnAccentFillPrimary">
+                <Background Type="CT_RAW" Source="FF000000" />
+            </Color>
+            <Color Name="TextOnAccentFillSecondary">
+                <Background Type="CT_RAW" Source="80000000" />
+            </Color>
+            <Color Name="TextOnAccentFillDisabled">
+                <Background Type="CT_RAW" Source="87FFFFFF" />
+            </Color>
+            <Color Name="ControlFillDefault">
+                <Background Type="CT_RAW" Source="0FFFFFFF" />
+            </Color>
+            <Color Name="ControlFillSecondary">
+                <Background Type="CT_RAW" Source="15FFFFFF" />
+            </Color>
+            <Color Name="ControlFillTertiary">
+                <Background Type="CT_RAW" Source="08FFFFFF" />
+            </Color>
+            <Color Name="ControlFillDisabled">
+                <Background Type="CT_RAW" Source="0BFFFFFF" />
+            </Color>
+            <Color Name="ControlFillTransparent">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="ControlFillInputActive">
+                <Background Type="CT_RAW" Source="B31E1E1E" />
+            </Color>
+            <Color Name="ControlStrongFillDefault">
+                <Background Type="CT_RAW" Source="8BFFFFFF" />
+            </Color>
+            <Color Name="ControlStrongFillDisabled">
+                <Background Type="CT_RAW" Source="3FFFFFFF" />
+            </Color>
+            <Color Name="ControlSolidFillDefault">
+                <Background Type="CT_RAW" Source="FF454545" />
+            </Color>
+            <Color Name="SubtleFillTransparent">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="SubtleFillSecondary">
+                <Background Type="CT_RAW" Source="0FFFFFFF" />
+            </Color>
+            <Color Name="SubtleFillTertiary">
+                <Background Type="CT_RAW" Source="0AFFFFFF" />
+            </Color>
+            <Color Name="SubtleFillDisabled">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="ControlAltFillTransparent">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="ControlAltFillSecondary">
+                <Background Type="CT_RAW" Source="19000000" />
+            </Color>
+            <Color Name="ControlAltFillTertiary">
+                <Background Type="CT_RAW" Source="0BFFFFFF" />
+            </Color>
+            <Color Name="ControlAltFillQuarternary">
+                <Background Type="CT_RAW" Source="12FFFFFF" />
+            </Color>
+            <Color Name="ControlAltFillDisabled">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="ControlOnImageFillDefault">
+                <Background Type="CT_RAW" Source="B31C1C1C" />
+            </Color>
+            <Color Name="ControlOnImageFillSecondary">
+                <Background Type="CT_RAW" Source="FF1A1A1A" />
+            </Color>
+            <Color Name="ControlOnImageFillTertiary">
+                <Background Type="CT_RAW" Source="FF131313" />
+            </Color>
+            <Color Name="ControlOnImageFillDisabled">
+                <Background Type="CT_RAW" Source="FF1E1E1E" />
+            </Color>
+            <Color Name="AccentFillDisabled">
+                <Background Type="CT_RAW" Source="28FFFFFF" />
+            </Color>
+            <Color Name="ControlStrokeDefault">
+                <Background Type="CT_RAW" Source="12FFFFFF" />
+            </Color>
+            <Color Name="ControlStrokeSecondary">
+                <Background Type="CT_RAW" Source="18FFFFFF" />
+            </Color>
+            <Color Name="ControlStrokeOnAccentDefault">
+                <Background Type="CT_RAW" Source="14FFFFFF" />
+            </Color>
+            <Color Name="ControlStrokeOnAccentSecondary">
+                <Background Type="CT_RAW" Source="23000000" />
+            </Color>
+            <Color Name="ControlStrokeOnAccentTertiary">
+                <Background Type="CT_RAW" Source="37000000" />
+            </Color>
+            <Color Name="ControlStrokeOnAccentDisabled">
+                <Background Type="CT_RAW" Source="33000000" />
+            </Color>
+            <Color Name="ControlStrokeForStrongFillWhenOnImage">
+                <Background Type="CT_RAW" Source="6B000000" />
+            </Color>
+            <Color Name="CardStrokeDefault">
+                <Background Type="CT_RAW" Source="19000000" />
+            </Color>
+            <Color Name="CardStrokeDefaultSolid">
+                <Background Type="CT_RAW" Source="FF1C1C1C" />
+            </Color>
+            <Color Name="ControlStrongStrokeDefault">
+                <Background Type="CT_RAW" Source="8BFFFFFF" />
+            </Color>
+            <Color Name="ControlStrongStrokeDisabled">
+                <Background Type="CT_RAW" Source="28FFFFFF" />
+            </Color>
+            <Color Name="ShadowFlyout">
+                <Background Type="CT_RAW" Source="42000000" />
+            </Color>
+            <Color Name="SurfaceStrokeDefault">
+                <Background Type="CT_RAW" Source="66757575" />
+            </Color>
+            <Color Name="SurfaceStrokeFlyout">
+                <Background Type="CT_RAW" Source="33000000" />
+            </Color>
+            <Color Name="SurfaceStrokeInverse">
+                <Background Type="CT_RAW" Source="0F000000" />
+            </Color>
+            <Color Name="DividerStrokeDefault">
+                <Background Type="CT_RAW" Source="15FFFFFF" />
+            </Color>
+            <Color Name="FocusStrokeOuter">
+                <Background Type="CT_RAW" Source="FFFFFFFF" />
+            </Color>
+            <Color Name="FocusStrokeInner">
+                <Background Type="CT_RAW" Source="B3000000" />
+            </Color>
+            <Color Name="CardBackgroundFillDefault">
+                <Background Type="CT_RAW" Source="0DFFFFFF" />
+            </Color>
+            <Color Name="CardBackgroundFillSecondary">
+                <Background Type="CT_RAW" Source="08FFFFFF" />
+            </Color>
+            <Color Name="SmokeFillDefault">
+                <Background Type="CT_RAW" Source="4D000000" />
+            </Color>
+            <Color Name="LayerFillDefault">
+                <Background Type="CT_RAW" Source="4C3A3A3A" />
+            </Color>
+            <Color Name="LayerFillAlt">
+                <Background Type="CT_RAW" Source="0DFFFFFF" />
+            </Color>
+            <Color Name="LayerOnAcrylicFillDefault">
+                <Background Type="CT_RAW" Source="09FFFFFF" />
+            </Color>
+            <Color Name="LayerOnAccentAcrylicFillDefault">
+                <Background Type="CT_RAW" Source="09FFFFFF" />
+            </Color>
+            <Color Name="LayerOnMicaBaseAltFillDefault">
+                <Background Type="CT_RAW" Source="733A3A3A" />
+            </Color>
+            <Color Name="LayerOnMicaBaseAltFillSecondary">
+                <Background Type="CT_RAW" Source="0FFFFFFF" />
+            </Color>
+            <Color Name="LayerOnMicaBaseAltFillTertiary">
+                <Background Type="CT_RAW" Source="FF2C2C2C" />
+            </Color>
+            <Color Name="LayerOnMicaBaseAltFillTransparent">
+                <Background Type="CT_RAW" Source="00FFFFFF" />
+            </Color>
+            <Color Name="SolidBackgroundFillBase">
+                <Background Type="CT_RAW" Source="FF202020" />
+            </Color>
+            <Color Name="SolidBackgroundFillSecondary">
+                <Background Type="CT_RAW" Source="FF1C1C1C" />
+            </Color>
+            <Color Name="SolidBackgroundFillTertiary">
+                <Background Type="CT_RAW" Source="FF282828" />
+            </Color>
+            <Color Name="SolidBackgroundFillQuarternary">
+                <Background Type="CT_RAW" Source="FF2C2C2C" />
+            </Color>
+            <Color Name="SolidBackgroundFillTransparent">
+                <Background Type="CT_RAW" Source="00202020" />
+            </Color>
+            <Color Name="SolidBackgroundFillBaseAlt">
+                <Background Type="CT_RAW" Source="FF0A0A0A" />
+            </Color>
+            <Color Name="SystemFillSuccess">
+                <Background Type="CT_RAW" Source="FF6CCB5F" />
+            </Color>
+            <Color Name="SystemFillCaution">
+                <Background Type="CT_RAW" Source="FFFCE100" />
+            </Color>
+            <Color Name="SystemFillCritical">
+                <Background Type="CT_RAW" Source="FFFF99A4" />
+            </Color>
+            <Color Name="SystemFillNeutral">
+                <Background Type="CT_RAW" Source="8BFFFFFF" />
+            </Color>
+            <Color Name="SystemFillSolidNeutral">
+                <Background Type="CT_RAW" Source="FF9D9D9D" />
+            </Color>
+            <Color Name="SystemFillAttentionBackground">
+                <Background Type="CT_RAW" Source="08FFFFFF" />
+            </Color>
+            <Color Name="SystemFillSuccessBackground">
+                <Background Type="CT_RAW" Source="FF393D1B" />
+            </Color>
+            <Color Name="SystemFillCautionBackground">
+                <Background Type="CT_RAW" Source="FF433519" />
+            </Color>
+            <Color Name="SystemFillCriticalBackground">
+                <Background Type="CT_RAW" Source="FF442726" />
+            </Color>
+            <Color Name="SystemFillNeutralBackground">
+                <Background Type="CT_RAW" Source="08FFFFFF" />
+            </Color>
+            <Color Name="SystemFillSolidAttentionBackground">
+                <Background Type="CT_RAW" Source="FF2E2E2E" />
+            </Color>
+            <Color Name="SystemFillSolidNeutralBackground">
+                <Background Type="CT_RAW" Source="FF2E2E2E" />
             </Color>
         </Category>
         <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
