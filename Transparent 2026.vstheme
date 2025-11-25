@@ -9061,7 +9061,7 @@
         </Category>
         <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
             <Color Name="Background">
-                <Background Type="CT_RAW" Source="50000000" />
+                <Background Type="CT_RAW" Source="00000000" />
                 <Foreground Type="CT_RAW" Source="FFF1F1F1" />
             </Color>
             <Color Name="SelectedItemActive">
@@ -10124,7 +10124,7 @@
                 <Background Type="CT_RAW" Source="CC9184EE" />
             </Color>
             <Color Name="SolidBackgroundFillTertiary">
-                <Background Type="CT_RAW" Source="80282828" />
+                <Background Type="CT_RAW" Source="CC282828" />
             </Color>
             <Color Name="SolidBackgroundFillQuaternary">
                 <Background Type="CT_RAW" Source="802C2C2C" />
