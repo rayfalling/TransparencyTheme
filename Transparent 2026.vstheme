@@ -10124,16 +10124,16 @@
                 <Background Type="CT_RAW" Source="CC9184EE" />
             </Color>
             <Color Name="SolidBackgroundFillTertiary">
-                <Background Type="CT_RAW" Source="FF282828" />
+                <Background Type="CT_RAW" Source="80282828" />
             </Color>
             <Color Name="SolidBackgroundFillQuaternary">
-                <Background Type="CT_RAW" Source="FF2C2C2C" />
+                <Background Type="CT_RAW" Source="802C2C2C" />
             </Color>
             <Color Name="SurfaceBackgroundFillDefault">
-                <Background Type="CT_RAW" Source="FF2C2C2C" />
+                <Background Type="CT_RAW" Source="802C2C2C" />
             </Color>
             <Color Name="TextFillPrimary">
-                <Background Type="CT_RAW" Source="FFFFFFFF" />
+                <Background Type="CT_RAW" Source="CCFFFFFF" />
             </Color>
             <Color Name="TextFillSecondary">
                 <Background Type="CT_RAW" Source="C8FFFFFF" />
