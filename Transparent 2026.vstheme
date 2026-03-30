@@ -1,5 +1,5 @@
 ﻿<Themes>
-    <Theme Name="Fully Transparency 2026" GUID="{78B44C43-C31A-4826-BBE4-05DDFCE45B40}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}" BaseGUID="{07086731-bca9-4496-8add-474b5b643c6c}">
+    <Theme Name="Fully Transparency 2026" GUID="{78B44C43-C31A-4826-BBE4-05DDFCE45B40}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
         <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
             <Color Name="Body">
                 <Background Type="CT_RAW" Source="FF252526" />
