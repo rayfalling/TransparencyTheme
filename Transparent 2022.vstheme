@@ -4186,7 +4186,7 @@
                 <Background Type="CT_RAW" Source="FF3F3F46" />
             </Color>
             <Color Name="Window">
-                <Background Type="CT_RAW" Source="00252526" />
+                <Background Type="CT_RAW" Source="FF252526" />
             </Color>
             <Color Name="WindowFrame">
                 <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -9375,7 +9375,7 @@
         </Category>
         <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
             <Color Name="Background">
-                <Background Type="CT_RAW" Source="50000000" />
+                <Background Type="CT_RAW" Source="FF252526" />
                 <Foreground Type="CT_RAW" Source="FFF1F1F1" />
             </Color>
             <Color Name="SelectedItemActive">
