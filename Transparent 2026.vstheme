@@ -28,17 +28,32 @@
             <Color Name="EnvironmentBackground">
                 <Background Type="CT_RAW" Source="001C1C1C" />
             </Color>
+            <Color Name="EnvironmentLogo">
+                <Background Type="CT_RAW" Source="FF9184EE" />
+            </Color>
+            <Color Name="EnvironmentBody">
+                <Background Type="CT_RAW" Source="001C1C1C" />
+            </Color>
             <Color Name="EnvironmentBorder">
                 <Background Type="CT_RAW" Source="FF9184EE" />
             </Color>
             <Color Name="EnvironmentIndicator">
                 <Background Type="CT_RAW" Source="66757575" />
             </Color>
-            <Color Name="EnvironmentLogo">
-                <Background Type="CT_RAW" Source="FF9184EE" />
-            </Color>
             <Color Name="EnvironmentLayeredBackground">
                 <Background Type="CT_RAW" Source="803A3A3A" />
+            </Color>
+            <Color Name="StatusBarBackgroundFillRest">
+                <Background Type="CT_RAW" Source="00000000" />
+            </Color>
+            <Color Name="StatusBarBackgroundFillBuilding">
+                <Background Type="CT_RAW" Source="A03F3682" />
+            </Color>
+            <Color Name="StatusBarBackgroundFillDebugging">
+                <Background Type="CT_RAW" Source="A07A2101" />
+            </Color>
+            <Color Name="StatusBarBackgroundFillSolutionLoading">
+                <Background Type="CT_RAW" Source="A0003B6A" />
             </Color>
         </Category>
 
@@ -54,15 +69,6 @@
             </Color>
             <Color Name="ToolWindowBackground">
                 <Background Type="CT_RAW" Source="FF252526" />
-            </Color>
-            <Color Name="CommandBarBorder">
-                <Background Type="CT_RAW" Source="FF000000" />
-            </Color>
-            <Color Name="CommandBarToolBarBorder">
-                <Background Type="CT_RAW" Source="FF000000" />
-            </Color>
-            <Color Name="CommandBarMenuBorder">
-                <Background Type="CT_RAW" Source="FF000000" />
             </Color>
         </Category>
     
